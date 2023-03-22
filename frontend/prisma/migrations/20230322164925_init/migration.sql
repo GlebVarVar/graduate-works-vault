@@ -1,0 +1,5 @@
+-- CreateTable
+CREATE TABLE "student" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "fio" TEXT NOT NULL
+);
